@@ -1,0 +1,31 @@
+body {
+    margin: 2rem;
+    font-family: sans-serif;
+    background-color: #222;
+}
+div {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    width: 700px;
+    height: 200px;
+    margin: 0 auto;
+    border: 3.2px solid rgb(120, 4, 130);
+    border-radius: 3px;
+    padding: 0.5rem;
+    color: rgb(156, 133, 153);
+}
+img {
+    width: 250px;
+    height: 135px;
+    border-radius: .3rem;
+    margin: 0 auto;
+}
+p {
+    width: 60%;
+}
+p,
+h2 {
+    margin-left: 0.3rem;
+}
